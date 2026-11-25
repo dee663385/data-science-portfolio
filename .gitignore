@@ -1,0 +1,11 @@
+# Local preview and Jekyll build output
+.preview/
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

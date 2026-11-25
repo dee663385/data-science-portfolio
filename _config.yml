@@ -1,0 +1,34 @@
+title: "WANG DI | Data Science Portfolio"
+description: "CISC7204 Data Science portfolio of WANG DI, showcasing reproducible analysis, visualisation, and geospatial data science."
+url: "https://dee663385.github.io"
+baseurl: "/data-science-portfolio"
+
+author:
+  name: "WANG DI"
+  student_id: "mc663385"
+  course: "CISC7204 - Data Science"
+  university: "University of Macau"
+  github: "dee663385"
+
+github_username: "dee663385"
+
+semester_project_repo: "https://github.com/dee663385/data-science-project"
+portfolio_repo: "https://github.com/dee663385/data-science-portfolio"
+
+# Set this to true after both bonus showcases are ready and public.
+bonus_ready: false
+assignment_01_repo: ""
+assignment_01_live: ""
+assignment_02_repo: ""
+assignment_02_live: ""
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
+permalink: pretty
+
+exclude:
+  - README.md
+  - _submission
+

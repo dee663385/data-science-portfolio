@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="WANG DI portfolio home">
+        <span class="brand-mark">WD</span>
+        <span>
+          <strong>WANG DI</strong>
+          <small>Data Science Portfolio</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/projects/geospatial-z-cities/' | relative_url }}">Semester Project</a>
+        <a href="{{ site.semester_project_repo }}">GitHub Repository</a>
+        {% if site.bonus_ready %}
+          <a href="{{ '/assignments/assignment-01/' | relative_url }}">Assignment 01</a>
+          <a href="{{ '/assignments/assignment-02/' | relative_url }}">Assignment 02</a>
+        {% endif %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="shell page-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <p><strong>{{ site.author.name }}</strong> · {{ site.author.student_id }}</p>
+      <p>{{ site.author.course }} · {{ site.author.university }}</p>
+      <p><a href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username }}</a></p>
+    </div>
+  </footer>
+</body>
+</html>
