@@ -1,0 +1,66 @@
+{
+  "analysis_period": {
+    "start": "2019-01-01",
+    "end": "2023-04-01"
+  },
+  "rows": {
+    "ces": 624,
+    "sae": 2652,
+    "fred": 52
+  },
+  "coverage": {
+    "national_series": 12,
+    "states": 51
+  },
+  "quality_metrics": {
+    "national_sector_sum_max_percent": 2.0681982238528223,
+    "fred_national_total_max_percent": 0.0
+  },
+  "checks": [
+    {
+      "check": "All 12 national series available",
+      "passed": true,
+      "detail": "12 series"
+    },
+    {
+      "check": "All 51 state series available",
+      "passed": true,
+      "detail": "51 states"
+    },
+    {
+      "check": "No duplicate national observations",
+      "passed": true,
+      "detail": "duplicates removed"
+    },
+    {
+      "check": "No duplicate state observations",
+      "passed": true,
+      "detail": "duplicates removed"
+    },
+    {
+      "check": "No non-positive employment values",
+      "passed": true,
+      "detail": "all values positive"
+    },
+    {
+      "check": "Baseline month available",
+      "passed": true,
+      "detail": "2019-01"
+    },
+    {
+      "check": "State data cover common end month",
+      "passed": true,
+      "detail": "2023-04"
+    },
+    {
+      "check": "National sector sum agrees with FRED total within 2.5%",
+      "passed": true,
+      "detail": "max 2.068%"
+    },
+    {
+      "check": "FRED total is the headline national series",
+      "passed": true,
+      "detail": "exact match"
+    }
+  ]
+}

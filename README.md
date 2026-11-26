@@ -26,8 +26,11 @@ This repository hosts a GitHub Pages portfolio that presents:
 ├── projects/
 │   └── geospatial-z-cities.md  # Semester Project summary
 ├── assignments/
-│   ├── assignment-01.md        # Published Assignment 01 showcase
-│   └── assignment-02.md        # Published Assignment 02 showcase
+│   ├── assignment-01.md        # Portfolio showcase page
+│   └── assignment-02.md        # Portfolio showcase page
+├── assignment-work/
+│   ├── assignment-01/          # Notebooks, proposal, data, and figures
+│   └── assignment-02/          # Project, labs, data, results, and screenshots
 └── _submission/                # Private working drafts, excluded from the site
 ```
 
@@ -42,7 +45,7 @@ GitHub Pages renders the Markdown and the custom `default` layout. To check the 
 
 ## Updating the assignment showcases
 
-1. Update the selected content in `assignments/assignment-01.md` or `assignments/assignment-02.md`.
+1. Update the selected showcase page in `assignments/` and its source files in `assignment-work/`.
 2. Confirm the repository URLs in `_config.yml`.
 3. Test every figure and external link in an incognito browser window.
 4. Commit and push to `main`.

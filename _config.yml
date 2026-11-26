@@ -17,9 +17,9 @@ portfolio_repo: "https://github.com/dee663385/data-science-portfolio"
 
 # Set this to true after both bonus showcases are ready and public.
 bonus_ready: true
-assignment_01_repo: "https://github.com/dee663385/cisc7204-assignment-01"
+assignment_01_repo: "https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-01"
 assignment_01_live: "https://dee663385.github.io/data-science-portfolio/assignments/assignment-01/"
-assignment_02_repo: "https://github.com/dee663385/cisc7204-assignment-02"
+assignment_02_repo: "https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-02"
 assignment_02_live: "https://dee663385.github.io/data-science-portfolio/assignments/assignment-02/"
 
 markdown: kramdown
@@ -31,4 +31,4 @@ permalink: pretty
 exclude:
   - README.md
   - _submission
-
+  - assignment-work

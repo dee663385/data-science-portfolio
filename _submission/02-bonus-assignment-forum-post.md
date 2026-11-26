@@ -8,13 +8,13 @@
 
 Assignment 01
 
-Repository: https://github.com/dee663385/cisc7204-assignment-01
+Repository: https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-01
 
 Portfolio showcase: https://dee663385.github.io/data-science-portfolio/assignments/assignment-01/
 
 Assignment 02
 
-Repository: https://github.com/dee663385/cisc7204-assignment-02
+Repository: https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-02
 
 Portfolio showcase: https://dee663385.github.io/data-science-portfolio/assignments/assignment-02/
 

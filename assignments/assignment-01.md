@@ -16,7 +16,7 @@ permalink: /assignments/assignment-01/
 
 Assignment 01 combines project-design work with a completed predictive analysis. The pair proposal defines a question about Macao's tourism economy and plans a reproducible data workflow. The housing analysis then demonstrates exploratory analysis, linear regression, feature engineering, regularisation, and critical evaluation of model performance.
 
-**Repository:** [cisc7204-assignment-01](https://github.com/dee663385/cisc7204-assignment-01)
+**Repository:** [assignment-work/assignment-01](https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-01)
 </div>
 
 <section>
@@ -41,7 +41,7 @@ This was pair work with ZhaoWei. The partner's student ID is withheld from the p
 
 **Sources:** Macao SAR Government Open Data Portal datasets covering arrivals, per-capita spending, total spending, and hotel occupancy.
 
-[Read the proposal](https://github.com/dee663385/cisc7204-assignment-01/blob/main/proposal/preliminary-proposal.md)
+[Read the proposal](https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-01/proposal/preliminary-proposal.md)
   </div>
 </section>
 
@@ -86,7 +86,7 @@ The first four scores are in-sample. The final two scores use a held-out test se
   </figure>
 
   <div class="hero-actions">
-    <a class="button" href="https://github.com/dee663385/cisc7204-assignment-01">Open repository</a>
-    <a class="button secondary" href="https://github.com/dee663385/cisc7204-assignment-01/blob/main/notebooks/house-sales-analysis.ipynb">View notebook</a>
+    <a class="button" href="https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-01">Open assignment folder</a>
+    <a class="button secondary" href="https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-01/notebooks/house-sales-analysis.ipynb">View notebook</a>
   </div>
 </section>

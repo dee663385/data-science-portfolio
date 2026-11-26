@@ -48,8 +48,8 @@ Deadline: 5 December 2026, 11:00 pm
 - [x] Pair partner student ID withheld from public content.
 - [x] Assignment figures extracted and displayed.
 - [x] Portfolio showcase pages updated with real results.
-- [ ] Create both repositories on GitHub.
-- [ ] Push both repositories.
+- [ ] Merge the assignment-work folders into the portfolio repository.
+- [ ] Push the portfolio and Semester Project repositories.
 - [ ] Publish the updated portfolio site.
 - [ ] Open both repository URLs and both portfolio showcase pages in incognito mode.
 

@@ -16,7 +16,7 @@ permalink: /assignments/assignment-02/
 
 Assignment 02 combines individual visual-analysis work, an interactive dashboard, and a pair research project. It shows the full path from data acquisition and validation through exploratory charts, interactive controls, geographic visualisation, and a concise evidence-based conclusion.
 
-**Repository:** [cisc7204-assignment-02](https://github.com/dee663385/cisc7204-assignment-02)
+**Repository:** [assignment-work/assignment-02](https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-02)
 </div>
 
 <section>
@@ -58,8 +58,8 @@ The project is descriptive. Payroll employment counts jobs, the series are seaso
   </figure>
 
   <div class="hero-actions">
-    <a class="button" href="https://github.com/dee663385/cisc7204-assignment-02/blob/main/project/analysis.ipynb">View analysis notebook</a>
-    <a class="button secondary" href="https://github.com/dee663385/cisc7204-assignment-02/blob/main/project/revised-proposal.md">Read revised proposal</a>
+    <a class="button" href="https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-02/project/analysis.ipynb">View analysis notebook</a>
+    <a class="button secondary" href="https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-02/project/revised-proposal.md">Read revised proposal</a>
   </div>
 </section>
 
@@ -78,7 +78,7 @@ The project is descriptive. Payroll employment counts jobs, the series are seaso
   <div class="content-card" markdown="1">
 The lab covers time trends, advertising expenditure, vehicle-type comparisons, seasonality, consumer confidence, price, unemployment, pie charts, and an optional geographic map.
 
-[View Lab 01 notebook](https://github.com/dee663385/cisc7204-assignment-02/blob/main/labs/lab-01-visualisation/automobile-sales-visualisation.ipynb)
+[View Lab 01 notebook](https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-02/labs/lab-01-visualisation/automobile-sales-visualisation.ipynb)
   </div>
 </section>
 
@@ -102,7 +102,7 @@ The lab covers time trends, advertising expenditure, vehicle-type comparisons, s
 - four interactive charts per report mode;
 - coordinated sales, vehicle-type, advertising, and unemployment views.
 
-[Dashboard source](https://github.com/dee663385/cisc7204-assignment-02/blob/main/labs/lab-02-dashboard/dashboard.py)
+[Dashboard source](https://github.com/dee663385/data-science-portfolio/blob/main/assignment-work/assignment-02/labs/lab-02-dashboard/dashboard.py)
   </div>
 </section>
 
@@ -117,6 +117,6 @@ The revised employment project was pair work with Zhaowei; the partner's student
 
 Lab 01 and Lab 02 began from course-provided activity templates. The submitted answers, chart implementations, dashboard code, and written interpretation are WANG DI's work.
 
-**Repository:** [cisc7204-assignment-02](https://github.com/dee663385/cisc7204-assignment-02)
+**Repository:** [assignment-work/assignment-02](https://github.com/dee663385/data-science-portfolio/tree/main/assignment-work/assignment-02)
   </div>
 </section>
