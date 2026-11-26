@@ -42,16 +42,16 @@ Deadline: 5 December 2026, 11:00 pm
 
 ## Assignment 01 and 02 bonus showcases
 
-- [x] Assignment 01 public-ready repository created locally.
-- [x] Assignment 02 public-ready repository created locally.
+- [x] Assignment 01 files prepared and merged into `assignment-work/`.
+- [x] Assignment 02 files prepared and merged into `assignment-work/`.
 - [x] Practice notebooks excluded.
 - [x] Pair partner student ID withheld from public content.
 - [x] Assignment figures extracted and displayed.
 - [x] Portfolio showcase pages updated with real results.
-- [ ] Merge the assignment-work folders into the portfolio repository.
-- [ ] Push the portfolio and Semester Project repositories.
-- [ ] Publish the updated portfolio site.
-- [ ] Open both repository URLs and both portfolio showcase pages in incognito mode.
+- [x] Merge the assignment-work folders into the portfolio repository.
+- [x] Push the portfolio and Semester Project repositories.
+- [x] Publish the updated portfolio site.
+- [x] Verify both GitHub folder URLs and both public showcase pages.
 
 ## Reflection
 

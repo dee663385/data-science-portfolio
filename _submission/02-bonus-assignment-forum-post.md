@@ -24,12 +24,12 @@ Portfolio showcase: https://dee663385.github.io/data-science-portfolio/assignmen
 - The public versions exclude practice notebooks and withhold the pair partner's student ID.
 - Assignment 01 includes the Macao tourism proposal and the completed King County housing analysis.
 - Assignment 02 includes the U.S. employment recovery project, Lab 01 visualisation, and Lab 02 Dash dashboard.
-- Publish the repositories and portfolio updates before submitting this post.
+- Both repositories and portfolio pages are now published and verified.
 
 ## Final public-access test
 
-- [ ] Assignment 01 repository opens without signing in.
-- [ ] Assignment 01 portfolio page opens without signing in.
-- [ ] Assignment 02 repository opens without signing in.
-- [ ] Assignment 02 portfolio page opens without signing in.
-- [ ] All figures and notebook links load correctly.
+- [x] Assignment 01 repository folder opens without signing in.
+- [x] Assignment 01 portfolio page opens without signing in.
+- [x] Assignment 02 repository folder opens without signing in.
+- [x] Assignment 02 portfolio page opens without signing in.
+- [x] All showcase figures load correctly; notebook links are present in GitHub.
