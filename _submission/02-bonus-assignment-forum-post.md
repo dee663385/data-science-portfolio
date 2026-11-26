@@ -1,35 +1,35 @@
 # Bonus forum submission
 
-Use this only after Assignment 01 and/or Assignment 02 have suitable public repositories and showcases.
-
 ## Required thread title
 
 `My DS Portfolio link(s) to My Assignment 01 and Assignment 02`
 
-## Post body template
+## Post body
 
 Assignment 01
 
-Repository: `TODO_PUBLIC_ASSIGNMENT_01_REPOSITORY_URL`
+Repository: https://github.com/dee663385/cisc7204-assignment-01
 
-Live page (if available): `TODO_PUBLIC_ASSIGNMENT_01_LIVE_URL`
+Portfolio showcase: https://dee663385.github.io/data-science-portfolio/assignments/assignment-01/
 
 Assignment 02
 
-Repository: `TODO_PUBLIC_ASSIGNMENT_02_REPOSITORY_URL`
+Repository: https://github.com/dee663385/cisc7204-assignment-02
 
-Live page (if available): `TODO_PUBLIC_ASSIGNMENT_02_LIVE_URL`
+Portfolio showcase: https://dee663385.github.io/data-science-portfolio/assignments/assignment-02/
 
-## Public-access test
+## Notes
 
-Open every link in an incognito/private browser window. Remove any link that requires a University login, a personal login, or a special environment.
+- Both repositories belong to the GitHub account `dee663385`.
+- The public versions exclude practice notebooks and withhold the pair partner's student ID.
+- Assignment 01 includes the Macao tourism proposal and the completed King County housing analysis.
+- Assignment 02 includes the U.S. employment recovery project, Lab 01 visualisation, and Lab 02 Dash dashboard.
+- Publish the repositories and portfolio updates before submitting this post.
 
-## Framework checklist
+## Final public-access test
 
-- [ ] Assignment 01 is a suitable standalone showcase.
-- [ ] Assignment 02 is a suitable standalone showcase.
-- [ ] Both repository URLs belong to `dee663385`.
-- [ ] All relevant links are public.
-- [ ] The portfolio homepage has been updated.
-- [ ] `bonus_ready` is set to `true` in `_config.yml`.
-- [ ] Assignment placeholder pages are published.
+- [ ] Assignment 01 repository opens without signing in.
+- [ ] Assignment 01 portfolio page opens without signing in.
+- [ ] Assignment 02 repository opens without signing in.
+- [ ] Assignment 02 portfolio page opens without signing in.
+- [ ] All figures and notebook links load correctly.

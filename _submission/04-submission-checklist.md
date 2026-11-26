@@ -40,6 +40,19 @@ Deadline: 5 December 2026, 11:00 pm
 - [ ] Replace the current project summary with the final Semester Project wording if it changes.
 - [ ] Remove or repurpose the duplicate project `index.md`.
 
+## Assignment 01 and 02 bonus showcases
+
+- [x] Assignment 01 public-ready repository created locally.
+- [x] Assignment 02 public-ready repository created locally.
+- [x] Practice notebooks excluded.
+- [x] Pair partner student ID withheld from public content.
+- [x] Assignment figures extracted and displayed.
+- [x] Portfolio showcase pages updated with real results.
+- [ ] Create both repositories on GitHub.
+- [ ] Push both repositories.
+- [ ] Publish the updated portfolio site.
+- [ ] Open both repository URLs and both portfolio showcase pages in incognito mode.
+
 ## Reflection
 
 - [ ] Confirm the reflection is approximately 200 words.
