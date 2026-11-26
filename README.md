@@ -13,7 +13,7 @@ This repository hosts a GitHub Pages portfolio that presents:
 - my data science background and technical skills;
 - a detailed summary of the Semester Project;
 - links to reproducible notebooks and project repositories;
-- an optional Assignment 01 and Assignment 02 showcase.
+- Assignment 01 and Assignment 02 showcases with project evidence and figures.
 
 ## Site structure
 
@@ -26,8 +26,8 @@ This repository hosts a GitHub Pages portfolio that presents:
 ├── projects/
 │   └── geospatial-z-cities.md  # Semester Project summary
 ├── assignments/
-│   ├── assignment-01.md        # Bonus showcase template (disabled by default)
-│   └── assignment-02.md        # Bonus showcase template (disabled by default)
+│   ├── assignment-01.md        # Published Assignment 01 showcase
+│   └── assignment-02.md        # Published Assignment 02 showcase
 └── _submission/                # Private working drafts, excluded from the site
 ```
 
@@ -40,13 +40,13 @@ GitHub Pages renders the Markdown and the custom `default` layout. To check the 
 3. Wait for GitHub Pages to rebuild.
 4. Open the live site and test all links.
 
-## Updating the bonus showcase
+## Updating the assignment showcases
 
-1. Complete and publish Assignment 01 and/or Assignment 02.
-2. Set `bonus_ready: true` in `_config.yml`.
-3. Fill in the four assignment URL fields.
-4. Remove `published: false` from the relevant files in `assignments/`.
-5. Verify every link in an incognito browser window.
+1. Update the selected content in `assignments/assignment-01.md` or `assignments/assignment-02.md`.
+2. Confirm the repository URLs in `_config.yml`.
+3. Test every figure and external link in an incognito browser window.
+4. Commit and push to `main`.
+5. Verify the generated page under `/assignments/`.
 
 ## Submission drafts
 
